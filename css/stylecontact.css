@@ -1,0 +1,32 @@
+/* contact.css */
+
+.contact-info {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f9f9f9;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.contact-info h2 {
+    color: #333333;
+    margin-bottom: 0.5em;
+}
+
+.contact-info p {
+    margin-bottom: 1em;
+    color: #666666;
+}
+
+.map-container {
+    max-width: 600px;
+    margin: 2em auto;
+    text-align: center;
+}
+
+.map-container iframe {
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+}

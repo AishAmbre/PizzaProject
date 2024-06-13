@@ -1,0 +1,50 @@
+/* New CSS file for home page */
+
+.center-image {
+    margin: 0 auto;
+    display: block;
+    width: 100%; /* Set image width to fill container */
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #000; /* Black text */
+}
+
+.intro-text {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #000; /* Black text */
+}
+
+.content-text {
+    font-size: 1.3rem;
+    margin-bottom: 40px;
+    color: #000; /* Black text */
+}
+
+.pizza-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+    text-align: center;
+}
+
+.pizza-details {
+    margin-top: 40px;
+}
+
+.pizza-details h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #000; /* Black text */
+}
+
+.pizza-details p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #000; /* Black text */
+}
